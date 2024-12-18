@@ -10,7 +10,7 @@ I'm a Software Developer
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Fivvy](https://fivvyforbusiness.com/).
+- 🔭 I’m currently working @ [CONEXA](https://conexa.ai/).
 - 🌱 I’m currently working with [React](https://reactjs.org).
 
 <br />
